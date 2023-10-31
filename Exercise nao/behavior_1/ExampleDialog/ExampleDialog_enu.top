@@ -1,0 +1,5 @@
+topic: ~ExampleDialog()
+language: enu
+
+
+u:(e:onStart)\rspd=80\ Hello \pau=500\ ^start(     animations/Stand/Gestures/BowShort_1) ^wait(     animations/Stand/Gestures/BowShort_1) I am nao \pau=500\ your exercise guide today \pau=500\ do you want to do some exercise with me today? \pau=500\ Repeat what I am doing $onStopped=1
